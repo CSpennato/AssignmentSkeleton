@@ -1,32 +1,8 @@
-# AssignmentSkeleton
+# STAT 497 Assignment
 
-An example layout students can use when submitting assingments for the Sports Analytics
-course at Concordia University.
+Chris Spennato - September 2021
 
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
+## Assignment 2
 
-## Assignment/Project Number ?
-
-## Brief description of Assignment/Project
-
-## Group Members
-
-## Setup
-
-If using `pyenv` virtual env:
-
-```shell
-python -m venv env
-source env/bin/activate
-```
-
-Otherwise activate your conda environment.
-
-From your virtual environment:
-
-```shell
-pip install -r requirements.txt
-```
-
-## Extra Comments
+Function to draw a rugby pitch and save it as a png.
+Code is found in notebook draw_rugby.ipynb
